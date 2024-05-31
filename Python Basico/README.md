@@ -5,6 +5,6 @@
 |     | **S2:** [Laços de Repetição, Vetores (arrays e listas)](https://colab.research.google.com/drive/1TO-ImIIbKrqB0pvuUvDtrBFZ2mmGQiS7?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1t1Jzn_T6SGhgAPrb3qzm6iaEC-KyJ0aX?usp=sharing); [Resolução](https://colab.research.google.com/drive/1F3-34Hn_2GLGgNA9fE31E9mj5pEYN9Jl?usp=sharing)           | 4h |
 |     | **S3:** [Listas, Tuplas, Dicionários e Funções (subrotinas)](https://colab.research.google.com/drive/1ZTMRg7CcU2BJey42VjPK2Z8F0PLYb5oM?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1cnKT3K6xSJgqx6wFcGNfauV72pgwgjL1?usp=sharing);       | 4h |
 | 12h | Bibliotecas                                                                               |    |
-|     | **S4:** [Numpy](https://colab.research.google.com/drive/1DYprtUabRSfuQmzm2aQu4CrVBQIxTBUo?usp=sharing) e Exercícios de fixação;                                                    | 4h |
+|     | **S4:** [Numpy](https://colab.research.google.com/drive/1DYprtUabRSfuQmzm2aQu4CrVBQIxTBUo?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1JlDh86_Y-e6a967DJaUn_NXq7PM_J8p7?usp=sharing);                                                    | 4h |
 |     | **S5:** Matplotlib e Exercícios de fixação;                                               | 4h |
 |     | **S6:** Pandas e Exercícios de fixação;                                                   | 4h |
