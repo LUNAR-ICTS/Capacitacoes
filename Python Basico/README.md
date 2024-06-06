@@ -6,5 +6,5 @@
 |     | **S3:** [Listas, Tuplas, Dicionários e Funções (subrotinas)](https://colab.research.google.com/drive/1ZTMRg7CcU2BJey42VjPK2Z8F0PLYb5oM?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1cnKT3K6xSJgqx6wFcGNfauV72pgwgjL1?usp=sharing);       | 4h |
 | 12h | Bibliotecas                                                                               |    |
 |     | **S4:** [Numpy](https://colab.research.google.com/drive/1DYprtUabRSfuQmzm2aQu4CrVBQIxTBUo?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1JlDh86_Y-e6a967DJaUn_NXq7PM_J8p7?usp=sharing);                                                    | 4h |
-|     | **S5:** [Matplotlib](https://colab.research.google.com/drive/1g8rbP1N0aOhh4sGbYx332a7L_eT91yfs?usp=sharing) e Exercícios de fixação;                                               | 4h |
+|     | **S5:** [Matplotlib](https://colab.research.google.com/drive/1g8rbP1N0aOhh4sGbYx332a7L_eT91yfs?usp=sharing) e [Exercícios de fixação](https://colab.research.google.com/drive/1cCb6qPF_sC5APJBJqficWDrjiHTDxOFK?usp=sharing);                                               | 4h |
 |     | **S6:** Pandas e Exercícios de fixação;                                                   | 4h |
