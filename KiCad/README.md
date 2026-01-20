@@ -21,7 +21,7 @@
     <tr>
       <td></td>
       <td><b>A2</b></td>
-      <td>Captura esquemática: o que é esquemático, símbolo vs componente físico, componentes básicos, legibilidade, ERC, relação com fabricação.</td>
+      <td>Captura esquemática: o que é esquemático, símbolo vs componente físico, componentes básicos, legibilidade, ERC (electrical rule check), relação com fabricação.</td>
       <td>Capturar esquemático simples (LED + resistor + alimentação); resolução comentada: organização visual, uso de GND/VCC, evitar erros comuns.</td>
     </tr>
     <tr>
